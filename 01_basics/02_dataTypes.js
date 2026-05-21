@@ -9,4 +9,4 @@ const isStudent = "true"
 
 cosnt id = 1.344344
 
-console.log.table
+
